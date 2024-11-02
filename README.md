@@ -23,6 +23,9 @@ This system is based on the YOLO object detection architecture with additional f
 - Perspective Transformation: Converts pixel distances into real-world measurements (in meters)
 
 ## Dataset 
-<a href="https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc/dataset/1">dataset used in training</a>
+<a href="https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc/dataset/1">Dataset used in training</a>
 <br>
-<a href="https://drive.google.com/file/d/1p5zOOXvMuXkOo-Na8OoVy1XOp1T9zb_G/view?usp=sharing">the video used in constraction</a>
+<a href="https://drive.google.com/file/d/1p5zOOXvMuXkOo-Na8OoVy1XOp1T9zb_G/view?usp=sharing">Video used in constraction</a>
+
+## output 
+<a href="https://drive.google.com/file/d/1Qcgydy7K6vsCSgt_J6bV41-5piVGHkFr/view?usp=sharing">Output video </a>
